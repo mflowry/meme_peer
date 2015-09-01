@@ -1,0 +1,28 @@
+[
+  {
+    "id":1,
+    "text": "What if the blue I see is different than the blue you see?",
+    "src": "images/keanu.jpg"
+  },
+  {
+    "id":2,
+    "text": "If you spill cleaning product, did you make a mess?",
+    "src": "images/philosoraptor.jpg"
+  },
+  {
+    "id":3,
+    "text": "Arrives 10 minutes early for party. Waits 20 minutes to go in.",
+    "src": "images/Socially-Awkward-Penguin.jpg"
+  },
+  {
+    "id":4,
+    "text": "Lost baby tooth.  Got candy!",
+    "src": "images/Success-Kid.jpg"
+  },
+  {
+    "id":5,
+    "text": "Kanye West is my favorite musician.",
+    "src": "images/Unpopular-Opinion-Puffin.jpg"
+  }
+
+]
