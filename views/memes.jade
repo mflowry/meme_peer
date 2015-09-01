@@ -3,12 +3,12 @@
 extends layout
 
 block content
-   each meme in memeObj
-         h1= meme.text
-         img(src=meme.src)
-         form(name="addMessage", method="post")
+    each meme in memeObj
+        form(name="addMessage", method="post")
+            h1= meme.text
+            img(src=meme.src, id=meme.id)
             div.input
                 span.label Enter Your Own Meme Message
                 textarea(name="message",cols="75", rows="2")
             div.actions
-                input(type="submit", value="SUBMIT", id="submit")
+                input(type="submit", value="SUBMIT", class="submit")
